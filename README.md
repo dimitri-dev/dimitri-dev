@@ -37,13 +37,8 @@ Other interests: Astrology, Nanotechnology, Neurology
   ---
 
 <a href="https://github.com/dimitri-dev">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dimitri-dev&show_icons=true&show_owner=true&line_height=27&count_private=true&include_all_commits=true&theme=nightowl" alt="Neven's GitHub Stats" />
-</a>
-
- ---
-
-<a href="https://github.com/dimitri-dev">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dimitri-dev&hide=html&theme=nightowl" />
+  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=dimitri-dev&show_icons=true&show_owner=true&line_height=21&hide_border=false&count_private=true&include_all_commits=true&theme=nightowl" alt="Neven's GitHub Stats"/>
+  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dimitri-dev&hide=html&hide_border=false&layout=compact&langs_count=7&theme=nightowl"
 </a>
 
 <!-- **dimitri-dev/dimitri-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on that GitHub profile. -->
