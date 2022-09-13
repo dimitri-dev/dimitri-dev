@@ -1,41 +1,25 @@
-<!-- Greeting -->
-### Hello there lad! Neven here, also known as Dimitri <img src="https://raw.githubusercontent.com/dimitri-dev/dimitri-dev/main/wave.gif" width="30px">
+<h1 align="center">
+Hello there!<br>
+My name is Neven Marić, a Junior .NET Backend Developer!
+</h1>
 
----
+<p align="center">
+I'm a 19 year old with lots of different interests.<br>
+<br>
+Developing nicely architectured software that has clean, maintainable and presentable code is my programming passion.<br>
+I utilize C#, my go-to programming language, to do most of the programming in my life.<br>
+<br>
+My free time is being used to study UI/UX in Web design. <br>
+I am also brushing my web development skills and learning about new technologies and stacks at the same time!<br>
+<br>
+Outside of programming, there is also an ever-so-growing passion for cars and motorcycles in my heart.<br>
+My current obsesion is the **rotary** engine and the produced vehicles with it!
+</p>
 
-<!-- Short : About me -->
-I'm a high school student that likes to dabble quite often in programming tasks. I have developed a passion for innovate and helpful applications (in many different ways) and I love writing nicely architectured, clean and maintainable code, as well as working with other people on solving problems, and learning new things along the way.
-
-The two programming languages I use on a day-to-day basis are Swift (for iOS development) and C# (for desktop and API development).
-
-Other interests consist of: Nanotechnology, Space, Cars
-
-<!-- Technologies and Languages -->
-### 🔧 Technologies & Tools
-
----
-
-![](https://img.shields.io/badge/Editor-Visual_Studio-informational?style=flat&logo=visual-studio&logoColor=white&labelColor=9c9c9c&color=cdd5e0)
-![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&labelColor=9c9c9c&color=cdd5e0)
-![](https://img.shields.io/badge/Code-CSharp-informational?style=flat&logo=c-sharp&logoColor=white&labelColor=9c9c9c&color=cdd5e0)
-![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c%2B%2B&logoColor=white&labelColor=9c9c9c&color=cdd5e0)
-![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=white&labelColor=9c9c9c&color=cdd5e0)
-![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css3&logoColor=white&labelColor=9c9c9c&color=cdd5e0)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&labelColor=9c9c9c&color=cdd5e0)
-
-### ⚡ Hobbies
-
-  ---
-
-♿ Esports 🏸 Badminton 👨‍🔬 Experimenting
-
-### 📈 Github Stats
-
-  ---
-
-<a href="https://github.com/dimitri-dev">
-  <img height="169px" src="https://github-readme-stats.vercel.app/api?username=dimitri-dev&show_icons=true&show_owner=true&line_height=21&hide_border=false&count_private=true&include_all_commits=true&theme=nightowl" alt="Neven's GitHub Stats"/>
-  <img height="169px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dimitri-dev&hide=html&hide_border=false&layout=compact&langs_count=7&theme=nightowl"
-</a>
+<p align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg" alt="postgresql" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webflow/webflow-original.svg" alt="webflow" width="40" height="40"/>
+</p>
 
 <!-- **dimitri-dev/dimitri-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on that GitHub profile. -->
