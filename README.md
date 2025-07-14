@@ -3,7 +3,7 @@ Hello there!
 </h1>
 
 <p align="center">
-I'm a 21 year old .NET Developer with a deep passion for cars, especially those with rotary engines.
+I'm a 22 year old .NET Developer with a deep passion for cars, especially those with rotary engines.
 <br>
 Cars have always captivated my imagination, and my love for them started early through automotive games.
 <br> <br>
@@ -22,7 +22,6 @@ Current stack
 <p align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg" alt="postgresql" width="40" height="40"/>
-<img src="https://avatars.githubusercontent.com/u/54801242" alt="clickhouse" width="40" height="40"/>
 </p>
 
 <!-- **dimitri-dev/dimitri-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on that GitHub profile. -->
