@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="320" viewBox="0 0 960 320" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Neven Mari&#263; - Software engineer</title>
+  <desc id="desc">.NET, C#, PostgreSQL, and Astro. Charcoal background with a subtle grid, amber accents, and a small rotary-engine rotor outline.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="960" y2="320" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#1D252E"/>
+      <stop offset="1" stop-color="#0D1117"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" stroke="#FFFFFF" stroke-opacity="0.035"/>
+    </pattern>
+  </defs>
+  <rect width="960" height="320" rx="16" fill="url(#background)"/>
+  <rect width="960" height="320" rx="16" fill="url(#grid)"/>
+  <rect x="1" y="1" width="958" height="318" rx="15" stroke="#303943"/>
+  <path d="M40 48H88" stroke="#F0B45A" stroke-width="4"/>
+  <text x="40" y="139" fill="#F0F3F6" font-family="Segoe UI, Arial, sans-serif" font-size="64" font-weight="700" letter-spacing="-1">Neven Mari&#263;</text>
+  <text x="40" y="188" fill="#F0B45A" font-family="Consolas, monospace" font-size="28">SOFTWARE ENGINEER</text>
+  <path d="M40 228H920" stroke="#35404B"/>
+  <text x="40" y="269" fill="#B7C1CC" font-family="Consolas, monospace" font-size="20">.NET / C# / PostgreSQL / Astro</text>
+  <g transform="translate(850 120)" stroke="#F0B45A" stroke-opacity="0.55" stroke-width="2">
+    <path d="M0 -48Q45 -25 41 24Q0 51 -41 24Q-45 -25 0 -48Z" stroke-linejoin="round"/>
+    <circle r="15"/>
+  </g>
+</svg>
