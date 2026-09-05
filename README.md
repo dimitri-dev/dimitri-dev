@@ -24,9 +24,9 @@ Most weekends during summer involve a car meet, Cars & Coffee, or finding someth
 
 No grand connection to software engineering here. I just really like cars.
 
----
+--- 
 
-**Interested in backend work, small-business websites, or a discussion about questionable car choices?**
+### Interested in backend work, small-business websites, or a discussion about questionable car choices?
 
 <a href="https://www.linkedin.com/in/maricneven/">
   <img src="https://img.shields.io/badge/Let's_talk_on_LinkedIn-0A66C2?style=for-the-badge" alt="Let's talk on LinkedIn" height="32">
