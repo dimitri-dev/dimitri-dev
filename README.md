@@ -1,6 +1,8 @@
-<p>
-  <img src="./profile-banner.svg" alt="Neven Mari&#263; - Software engineer. .NET / C# / PostgreSQL / Astro." width="960">
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-banner.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./profile-banner-light.svg">
+  <img src="./profile-banner-light.svg" alt="Neven Mari&#263; - Software engineer. .NET / C# / PostgreSQL / Astro." width="960">
+</picture>
 
 ## A little about me
 
